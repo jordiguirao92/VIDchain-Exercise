@@ -1,0 +1,25 @@
+{
+  "name": "VIDchain-Exercise",
+  "version": "1.0.0",
+  "description": "VIDchain Technical Screening Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start:1": "node exercice1.js",
+    "start:2": "node exercice2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordiguirao92/VIDchain-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordiguirao92/VIDchain-Exercise/issues"
+  },
+  "homepage": "https://github.com/jordiguirao92/VIDchain-Exercise#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
